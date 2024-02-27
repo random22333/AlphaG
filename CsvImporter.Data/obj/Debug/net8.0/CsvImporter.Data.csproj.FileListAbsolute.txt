@@ -1,0 +1,36 @@
+C:\Users\Mark Wood\source\repos\CsvImporter.Data\bin\Debug\net8.0\CsvImporter.Data.deps.json
+C:\Users\Mark Wood\source\repos\CsvImporter.Data\bin\Debug\net8.0\CsvImporter.Data.dll
+C:\Users\Mark Wood\source\repos\CsvImporter.Data\bin\Debug\net8.0\CsvImporter.Data.pdb
+C:\Users\Mark Wood\source\repos\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.csproj.AssemblyReference.cache
+C:\Users\Mark Wood\source\repos\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark Wood\source\repos\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.AssemblyInfoInputs.cache
+C:\Users\Mark Wood\source\repos\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.AssemblyInfo.cs
+C:\Users\Mark Wood\source\repos\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mark Wood\source\repos\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.dll
+C:\Users\Mark Wood\source\repos\CsvImporter.Data\obj\Debug\net8.0\refint\CsvImporter.Data.dll
+C:\Users\Mark Wood\source\repos\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.pdb
+C:\Users\Mark Wood\source\repos\CsvImporter.Data\obj\Debug\net8.0\ref\CsvImporter.Data.dll
+C:\AlphaGraphics\CsvImporter.Data\bin\Debug\net8.0\CsvImporter.Data.deps.json
+C:\AlphaGraphics\CsvImporter.Data\bin\Debug\net8.0\CsvImporter.Data.dll
+C:\AlphaGraphics\CsvImporter.Data\bin\Debug\net8.0\CsvImporter.Data.pdb
+C:\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.csproj.AssemblyReference.cache
+C:\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.AssemblyInfoInputs.cache
+C:\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.AssemblyInfo.cs
+C:\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.csproj.CoreCompileInputs.cache
+C:\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.dll
+C:\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\refint\CsvImporter.Data.dll
+C:\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.pdb
+C:\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\ref\CsvImporter.Data.dll
+C:\Users\Mark Wood\Desktop\AlphaGraphics\CsvImporter.Data\bin\Debug\net8.0\CsvImporter.Data.deps.json
+C:\Users\Mark Wood\Desktop\AlphaGraphics\CsvImporter.Data\bin\Debug\net8.0\CsvImporter.Data.dll
+C:\Users\Mark Wood\Desktop\AlphaGraphics\CsvImporter.Data\bin\Debug\net8.0\CsvImporter.Data.pdb
+C:\Users\Mark Wood\Desktop\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.csproj.AssemblyReference.cache
+C:\Users\Mark Wood\Desktop\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark Wood\Desktop\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.AssemblyInfoInputs.cache
+C:\Users\Mark Wood\Desktop\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.AssemblyInfo.cs
+C:\Users\Mark Wood\Desktop\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mark Wood\Desktop\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.dll
+C:\Users\Mark Wood\Desktop\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\refint\CsvImporter.Data.dll
+C:\Users\Mark Wood\Desktop\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\CsvImporter.Data.pdb
+C:\Users\Mark Wood\Desktop\AlphaGraphics\CsvImporter.Data\obj\Debug\net8.0\ref\CsvImporter.Data.dll
