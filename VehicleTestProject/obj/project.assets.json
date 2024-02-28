@@ -4481,11 +4481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mark Wood\\Desktop\\AlphaGraphics\\VehicleTestProject\\VehicleTestProject.csproj",
+      "projectUniqueName": "C:\\Users\\Mark Wood\\Source\\Repos\\AlphaG\\VehicleTestProject\\VehicleTestProject.csproj",
       "projectName": "VehicleTestProject",
-      "projectPath": "C:\\Users\\Mark Wood\\Desktop\\AlphaGraphics\\VehicleTestProject\\VehicleTestProject.csproj",
+      "projectPath": "C:\\Users\\Mark Wood\\Source\\Repos\\AlphaG\\VehicleTestProject\\VehicleTestProject.csproj",
       "packagesPath": "C:\\Users\\Mark Wood\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mark Wood\\Desktop\\AlphaGraphics\\VehicleTestProject\\obj\\",
+      "outputPath": "C:\\Users\\Mark Wood\\Source\\Repos\\AlphaG\\VehicleTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4505,8 +4505,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Mark Wood\\Desktop\\AlphaGraphics\\CsvImporter.Service\\CsvImporter.Service.csproj": {
-              "projectPath": "C:\\Users\\Mark Wood\\Desktop\\AlphaGraphics\\CsvImporter.Service\\CsvImporter.Service.csproj"
+            "C:\\Users\\Mark Wood\\Source\\Repos\\AlphaG\\CsvImporter.Service\\CsvImporter.Service.csproj": {
+              "projectPath": "C:\\Users\\Mark Wood\\Source\\Repos\\AlphaG\\CsvImporter.Service\\CsvImporter.Service.csproj"
             }
           }
         }

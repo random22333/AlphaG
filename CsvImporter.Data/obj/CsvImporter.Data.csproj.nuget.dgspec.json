@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mark Wood\\Desktop\\AlphaGraphics\\CsvImporter.Data\\CsvImporter.Data.csproj": {}
+    "C:\\Users\\Mark Wood\\Source\\Repos\\AlphaG\\CsvImporter.Data\\CsvImporter.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mark Wood\\Desktop\\AlphaGraphics\\CsvImporter.Data\\CsvImporter.Data.csproj": {
+    "C:\\Users\\Mark Wood\\Source\\Repos\\AlphaG\\CsvImporter.Data\\CsvImporter.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mark Wood\\Desktop\\AlphaGraphics\\CsvImporter.Data\\CsvImporter.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Mark Wood\\Source\\Repos\\AlphaG\\CsvImporter.Data\\CsvImporter.Data.csproj",
         "projectName": "CsvImporter.Data",
-        "projectPath": "C:\\Users\\Mark Wood\\Desktop\\AlphaGraphics\\CsvImporter.Data\\CsvImporter.Data.csproj",
+        "projectPath": "C:\\Users\\Mark Wood\\Source\\Repos\\AlphaG\\CsvImporter.Data\\CsvImporter.Data.csproj",
         "packagesPath": "C:\\Users\\Mark Wood\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mark Wood\\Desktop\\AlphaGraphics\\CsvImporter.Data\\obj\\",
+        "outputPath": "C:\\Users\\Mark Wood\\Source\\Repos\\AlphaG\\CsvImporter.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

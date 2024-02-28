@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5qA3uts401oFWp4wb3X85ZBjKkjnHtygRW9DiKS+j2S/0tVq77PQd8uH88ZE+njwhH6FQV2BjDbYzp7KistJ5g==",
+  "dgSpecHash": "yT+fRSouyg/xyIQKOKjJGowpO7BcZRPyQCqyOXs821LEav9g0dWwh/xBujOwQpWXlW9lQk/9DsdCZ3Kot6Dd2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mark Wood\\Desktop\\AlphaGraphics\\CsvImporter.Data\\CsvImporter.Data.csproj",
+  "projectFilePath": "C:\\Users\\Mark Wood\\Source\\Repos\\AlphaG\\CsvImporter.Data\\CsvImporter.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mark Wood\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Mark Wood\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

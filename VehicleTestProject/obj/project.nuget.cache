@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0gl1SFWOgngBwOsN9oMpzKEjkrxBFFn2l5fcVecajXyBHwOsiYaZEOY4RftfW4RqBtKqdTluswBui9dkkguy3A==",
+  "dgSpecHash": "/B+jbIUqtXYWLOyFPmx5R27DoqP6FPUpbapWldgph++DWzP86QGzRqPdCNt6A3/KkcZvwjHM9sFz4bMvyQSapQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mark Wood\\Desktop\\AlphaGraphics\\VehicleTestProject\\VehicleTestProject.csproj",
+  "projectFilePath": "C:\\Users\\Mark Wood\\Source\\Repos\\AlphaG\\VehicleTestProject\\VehicleTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mark Wood\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Mark Wood\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
